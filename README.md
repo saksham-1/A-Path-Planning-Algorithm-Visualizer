@@ -20,7 +20,7 @@ The use of methods in Data Structures & Algorithms and Priority Queues were cruc
 # Python Dependencies
 
 
-Python 3.6 and up
+1. Python 3.6 and up
 
 Py-game library (latest version)
 
