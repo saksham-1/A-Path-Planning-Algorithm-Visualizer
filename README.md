@@ -1,10 +1,11 @@
 # A-Path-Planning-Algorithm-Visualizer
-Description
+
+# Description
 
 The A*star path planning algorithm is a popular and efficient graph traversal and search algorithm that was developed in 1968 by Peter Hart, Nils Nilsson and Bertram Raphael of the Stanford Research Institute. I have always been fascinated by the efficiency and complexity of search algorithms and this interest led me to try and implement the algorithm myself in an interesting and visual way.
 
 
-Implementation
+# Implementation
 
 To do this I used, the py-game python module for the visualization aspect.
 
@@ -12,11 +13,11 @@ The use of methods in Data Structures & Algorithms and Priority Queues were cruc
 
 
 
-How to use / Visualize
+# How to use / Visualize
 
 
 
-Python Dependencies
+# Python Dependencies
 
 
 Python 3.6 and up
@@ -29,7 +30,7 @@ Priority Queue library
 
 
 
-Running the Visualizer
+# Running the Visualizer
 
 
 After running the program;
