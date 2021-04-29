@@ -27,25 +27,25 @@ The use of methods in Data Structures & Algorithms and Priority Queues were cruc
 
 1) Python 3.6 and up
 
-2)Py-game library (latest version)
+2) Py-game library (latest version)
 
-Math library
+3) Math library
 
-Priority Queue library
+4) Priority Queue library
 
 
 
 # Running the Visualizer
 
 
-After running the program;
+1) After running the program;
 
-Select the starting node from which the A* algorithm should begin the search.
+2) Select the starting node from which the A* algorithm should begin the search.
 
-Select a goal/end node at which the A* algorithm will attempt to reach.
+3) Select a goal/end node at which the A* algorithm will attempt to reach.
 
-Select barrier nodes that will represent obstacles that the algorithm must traverse to reach the goal node. (These will appear black in colour)
+4) Select barrier nodes that will represent obstacles that the algorithm must traverse to reach the goal node. (These will appear black in colour)
 
-Hit the space bar and enjoy the visualization of the searching process.
+5) Hit the space bar and enjoy the visualization of the searching process.
 
 
